@@ -1,0 +1,23 @@
+{
+  "name": "gleamo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaumik/gleamo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaumik/gleamo/issues"
+  },
+  "homepage": "https://github.com/shaumik/gleamo#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
